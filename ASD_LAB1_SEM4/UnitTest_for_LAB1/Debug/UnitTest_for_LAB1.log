@@ -1,0 +1,3 @@
+﻿  UnitTest_for_LAB1.cpp
+C:\Users\xdvad\source\repos\ASD_LAB1_SEM4\ASD_LAB1_SEM4\Red_Black_Tree_for_LAB1.h(313): warning C4715: Red_Black_Tree<int,int>::find: значение возвращается не при всех путях выполнения
+  UnitTest_for_LAB1.vcxproj -> C:\Users\xdvad\source\repos\ASD_LAB1_SEM4\Debug\UnitTest_for_LAB1.dll
